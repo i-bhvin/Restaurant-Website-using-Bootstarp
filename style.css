@@ -1,0 +1,133 @@
+#head {
+    background-color: #191919;
+}
+
+#features {
+    color: black;
+}
+
+.navbar-brand img {
+    margin-top: -5%;
+}
+
+h1,
+h2 {
+    color: white;
+    font-weight: bold;
+    line-height: 200%;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+#hh3 {
+    color: white;
+    padding-left: 60%;
+    font-family: 'Handlee', cursive;
+}
+
+.navbar {
+    font-family: 'Handlee', cursive;
+}
+
+li {
+    font-size: 1.5em;
+}
+
+.nav-item {
+    padding-right: 2.5em;
+}
+
+.navbar-brand {
+    font-size: 2em;
+    margin-top: 2%;
+}
+
+#head-infor {
+    padding: 10% 10%;
+}
+
+.head-img {
+    width: auto;
+    height: auto;
+    float: right;
+    padding-right: 10%;
+}
+
+#features {
+    margin: 5% auto;
+}
+
+.box {
+    text-align: center;
+    /* margin: 5% auto; */
+}
+
+
+
+p {
+    font-family: 'Handlee', cursive;
+}
+
+.box-img {
+    width: 15%;
+    height: 30%;
+    margin: 2%;
+}
+
+.box-img:hover {
+    filter: drop-shadow(4px 3px 2px rgb(187, 187, 187));
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+#reviews {
+    background-color: #191919;
+    padding: 5% 10%;
+}
+
+#reviews h3 {
+    color: white;
+}
+
+#reviews p {
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#reviews img {
+    margin: 1% 0;
+    border-radius: 50%;
+}
+
+#services {
+    text-align: center;
+    padding: 5% 0;
+}
+
+#services img {
+    width: 60%;
+    margin: 2%;
+}
+
+#footer {
+    background-color: #191919;
+    text-align: center;
+    padding: 2%;
+}
+
+#footer h3 {
+    color: white;
+}
+
+#footer img {
+    border-radius: 50%;
+    width: 30px;
+    margin: 10px;
+}
